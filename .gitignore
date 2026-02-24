@@ -2,3 +2,11 @@
 FaceRecognition.Api/Face.Api/bin/
 FaceRecognition.Api/Face.Api/obj/
 *.onnx
+.DS_Store
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile.pubxml
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile.pubxml.user
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile1.pubxml
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile1.pubxml.user
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile2.pubxml
+FaceRecognition.Api/Face.Api/Properties/PublishProfiles/FolderProfile2.pubxml.user
+FaceRecognition.Api/Face.Api/Face.Api.csproj.user
