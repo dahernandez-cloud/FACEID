@@ -2,3 +2,4 @@
 FaceRecognition.Api/Face.Api/bin/
 FaceRecognition.Api/Face.Api/obj/
 *.onnx
+/FaceRecognition.Api/Face.Api - Copy
